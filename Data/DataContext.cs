@@ -13,6 +13,5 @@ namespace ProvaDevVisualAPI.Data
         }
         public DbSet<Person> Person { get; set; }
 
-
     }
 }
